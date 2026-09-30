@@ -1,0 +1,21 @@
+body {
+  background-color: gray;
+}
+.container h1 {
+  font-size: 40px;
+}
+.container p {
+  line-height: 1.4;
+  font-size: 24px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 700px;
+  background-color: yellow;
+  text-align: center;
+}
+
+.container img {
+  max-width: 600px;
+}
